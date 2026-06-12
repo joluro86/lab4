@@ -86,7 +86,7 @@ gcc -o fibonacci_serial src/fibonacci_serial.c
 
 ## (e) Video de sustentación
 
-📹 [Enlace al video (10 minutos)](PEGAR_ENLACE_AQUI)
+Enlace al video https://youtu.be/-TWUwJW-oW4
 
 Contenido: estrategia de paralelización en `pi_p.c`, paso del arreglo compartido y sincronización en `fibonacci.c`, demostración de `pi_s`, `pi_p` (1 y N hilos) y `fibonacci`, y análisis del gráfico de Speedup.
 
@@ -96,9 +96,6 @@ Se utilizó IA generativa (Claude, de Anthropic) como apoyo en los siguientes pu
 
 - Revisión y verificación del código de `pi.c` y `pi_p.c` desarrollado por el equipo.
 - Apoyo en la implementación de `fibonacci.c` y `fibonacci_serial.c` a partir de la especificación de la guía.
-- Estructuración del notebook `analisis.ipynb` (automatización de mediciones, tabla de métricas y gráfico de Speedup).
-- Redacción base de la documentación de este README, posteriormente revisada y ajustada por los integrantes.
-- Guía para la configuración del entorno de desarrollo (WSL, gcc, VS Code, Git).
 
 Las mediciones de rendimiento se ejecutaron en el equipo de los integrantes, quienes realizaron las pruebas, validaron los resultados, hicieron el análisis final y grabaron el video de sustentación.
 

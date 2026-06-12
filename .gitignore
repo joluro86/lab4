@@ -1,0 +1,6 @@
+.venv/
+fibonacci
+fibonacci_serial
+pi_s
+pi_p
+*.o

@@ -7,7 +7,7 @@
 | Nombre completo | Correo | Documento |
 |---|---|---|
 | Jorge Luis Rodriguez Jimenez | jorge.rodriguezj@udea.edu.co | 1027941053
-| Esteban [COMPLETAR APELLIDOS] | [completar]@udea.edu.co | 
+| Esteban Andres Castaño Gallo | esteban.castano1@udea.edu.co | 1001967876 
 
 ## Estructura del repositorio
 

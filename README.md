@@ -6,7 +6,7 @@
 
 | Nombre completo | Correo | Documento |
 |---|---|---|
-| Jorge Luis Rodriguez Jimenez | jorge.rodriguezj@udea.edu.co |
+| Jorge Luis Rodriguez Jimenez | jorge.rodriguezj@udea.edu.co | 1027941053
 | Esteban [COMPLETAR APELLIDOS] | [completar]@udea.edu.co | 
 
 ## Estructura del repositorio
